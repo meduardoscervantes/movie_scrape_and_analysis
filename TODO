@@ -1,0 +1,7 @@
+Extraction of data
+Transformation get rid of nulls, clean rows, and data types
+Load into database
+
+Build Flask app with routes
+Get data to front end either through Python or in Jason
+Builds Visualizations
